@@ -13,9 +13,9 @@ import (
 )
 
 // CONFIGURE HERE
-var totalRangeStart = 1459814400 // 2016-04-05 00:00:00
-var totalRangeEnd = 1503792000   // 2017-08-27 00:00:00
-var tsdbEndpoint = "http://opentsdb.lupine.org:4244"
+var totalRangeStart = 1546347600  // 2016-01-01 00:00:00
+var totalRangeEnd = 1546414800   // 2019-12-15 00:00:00
+var tsdbEndpoint = "http://localhost:4242"
 
 // Useful utility code
 func check(e error) {
