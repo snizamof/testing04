@@ -13,8 +13,8 @@ import (
 )
 
 // CONFIGURE HERE
-var totalRangeStart = 1575158400   // 2019-12-01 00:00:00
-var totalRangeEnd = 1577750400   // 2019-12-31 00:00:00
+var totalRangeStart = 1498870800   // 2017-07-01 01:00:00
+var totalRangeEnd = 1580751881   // 2020-01-01 00:00:00
 var tsdbEndpoint = "http://localhost:4242"
 
 // Useful utility code
